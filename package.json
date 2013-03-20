@@ -1,0 +1,26 @@
+{
+  "name": "addon-pad",
+  "id": "addon-pad",
+  "version": "0.0.1",
+  "description": "Add-on SDK authoring tool",
+  "keywords": [
+    "addon-pad"
+  ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/addon-pad",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/addon-pad.git",
+    "web": "https://github.com/Gozala/addon-pad"
+  },
+  "bugs": {
+    "url": "http://github.com/Gozala/addon-pad/issues/"
+  },
+  "main": "./main.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Gozala/addon-pad/License.md"
+    }
+  ]
+}
