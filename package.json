@@ -16,7 +16,6 @@
   "bugs": {
     "url": "http://github.com/Gozala/addon-pad/issues/"
   },
-  "main": "./main.js",
   "licenses": [
     {
       "type": "MIT",
